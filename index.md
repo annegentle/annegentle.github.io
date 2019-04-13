@@ -1,4 +1,4 @@
- # About Anne Gentle 
+# About Anne Gentle 
 
 Anne Gentle is an industry-recognized author whose books promote collaboration among developers, writers, and other stakeholders within open source and enterprise communities. 
 
