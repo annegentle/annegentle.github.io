@@ -2,7 +2,7 @@
 
 Anne Gentle is an industry-recognized author whose books promote collaboration among developers, writers, and other stakeholders within open source and enterprise communities. 
 
-Anne works as a Developer Experience Manager with [Cisco DevNet](https://developer.cisco.com), managing both content teams and support teams making sure developers can do great work with Cisco APIs. 
+Anne works as a Developer Experience Manager on developer relations at [Cisco](https://developer.cisco.com), working on developer relations and API documentation quality and tutorials. 
 
 She supports open tools for API design, documentation, and developer support. You can see recordings of her talks on these topics on her [Speaker profile page](https://justwriteclick.com/speaker-profile/).
 
