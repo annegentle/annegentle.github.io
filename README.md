@@ -1,6 +1,4 @@
 # annegentle.github.io
-Static site generator example using gh-pages
+This is a static site generator example that uses GitHub Pages from the `main` branch.
 
 Used for testing out different layouts as an example.
-
-I can help you set up a static web site easily and cleanly, saving you at least 10 hours of time.
