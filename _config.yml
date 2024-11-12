@@ -1,7 +1,7 @@
 title: AnneGentle.GitHub.io
 description: Anne leads technical writers and developers who automate workflows for consistent, repeatable infrastructure uses. She uses open-source techniques for API design, documentation, dev ops, and developer support.  
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
